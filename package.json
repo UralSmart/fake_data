@@ -1,0 +1,24 @@
+{
+  "name": "fake_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UralSmart/fake_data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UralSmart/fake_data/issues"
+  },
+  "homepage": "https://github.com/UralSmart/fake_data#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cypress": "^9.7.0"
+  }
+}
